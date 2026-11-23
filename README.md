@@ -1,5 +1,7 @@
 # Reverse Engineering Shazam
 
+<a href="https://github.com/Patels-Labs"><img src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/readme-mark.png" alt="" height="22" align="absmiddle"></a>&nbsp; A <a href="https://github.com/Patels-Labs"><b>Patel's Labs</b></a> project
+
 ## Overview
 
 This repository contains a reverse engineering of the Shazam app, which is used for music recognition. The goal of this project is to understand how the app works and to create a similar app using Python.
@@ -108,9 +110,3 @@ node generate-songs-data.js
 This will update the song data in the frontend, allowing you to view which songs are identifiable.
 
 Update the `config.py` file to include all the new paths.
-
----
-
-<p align="center">
-  <a href="https://github.com/Patels-Labs"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-light.png#gh-light-mode-only" height="40"><img alt="A Patel's Labs project" src="https://raw.githubusercontent.com/Patels-Labs/.github/main/brand/badge-dark.png#gh-dark-mode-only" height="40"></a>
-</p>
